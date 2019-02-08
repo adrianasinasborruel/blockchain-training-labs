@@ -99,6 +99,7 @@ Select **Form URL Encoded** as a structure
 ##### Parameters
 + invoiceid
 + invoicenum
++ billedto
 + invoicedate
 + invoiceamount
 + itemdescription
