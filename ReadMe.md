@@ -39,6 +39,8 @@ Then copy the **go/** folder in this repository or simply create a new folder na
 Open terminal then change directory to **/fabric-samples/invoice/**
 Then run **./startFabric.sh**
 <br />
+Then run **npm install**
+<br />
 Then run **node enrollAdmin.js**
 <br />
 Then run **node registerUser.js**
