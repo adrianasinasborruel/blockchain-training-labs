@@ -1,5 +1,14 @@
 # Invoice - Team 7
 
+## Development Environment:
+#### Go version: go version go1.11.2 linux/amd64
+#### OS: deepin15.9.1
+
+### NOTE: GOPATH must be correctly set in your local machine
+You can check if go is properly installed by running **go version** in your terminal
+<br />
+Check also if gopath is correct. Run **echo $GOPATH**
+
 ### Setup Network
 #### Step1:
 Create a folder **invoice** under **fabric-samples/**
